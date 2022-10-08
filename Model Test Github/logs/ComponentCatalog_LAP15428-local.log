@@ -1,0 +1,4 @@
+10/8/2022 8:19:50 PM Information:Previous log file path: 'C:\TeklaStructuresModels\nguoi bang\logs\ComponentCatalog_LAP15428-local.log'
+10/8/2022 8:19:50 PM Information:New log file path: 'C:\Users\LAP15428-local\Downloads\01tantan\Model Test Github\logs\ComponentCatalog_LAP15428-local.log'
+10/8/2022 8:19:53 PM Error:Component not installed in Tekla Structures for item: CatalogSystemComponentMacroItem?251000060 source: c:\programdata\trimble\tekla structures\2022.0\environments\default\general\shared\uisetup\componentcatalog.xml
+10/8/2022 8:19:53 PM Error:Component not installed in Tekla Structures for item: CatalogSystemComponentMacroItem?251000060 source: c:\programdata\trimble\tekla structures\2022.0\environments\default\general\shared\uisetup\componentcatalog.xml
